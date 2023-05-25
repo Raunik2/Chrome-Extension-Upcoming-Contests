@@ -29,6 +29,3 @@ The **Upcoming Contests** Chrome extension displays information about upcoming c
 
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
-
-
-
