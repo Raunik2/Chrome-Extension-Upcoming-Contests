@@ -19,8 +19,8 @@ The **Upcoming Contests** Chrome extension displays information about upcoming c
 4. Click on "Load unpacked" and select the project folder.
 5. The extension will be loaded and ready to use.
 
-![Screenshot 1](images/img2.png)
-![Screenshot 2](images/img3.png)
+![Screenshot 1](images/img2.jpg)
+![Screenshot 2](images/img3.jpg)
 
 ## Usage
 1. Click on the Chrome extension icon in the toolbar to open the Upcoming Contests panel.
